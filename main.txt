@@ -2,7 +2,7 @@
 // @name         AMNESIS
 // @namespace    https://www.clutcher.io/
 // @version      3.3.1
-// @description  Right Shift GUI, configurable ESP, movement, aim, and world visuals.
+// @description  AMNESIS
 // @icon         https://i.ibb.co/2YnYg7Ps/aasaf.png
 // @match        https://www.clutcher.io/*
 // @match        https://clutcher.io/*
